@@ -365,3 +365,4 @@ __pycache__/
 *.tfstate*
 !*.tfvars
 /test-results/
+mlops/learn_mlflow/mlruns/*
